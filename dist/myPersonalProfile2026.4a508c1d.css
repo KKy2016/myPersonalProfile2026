@@ -12618,7 +12618,7 @@ section {
 }
 
 #projects .project-wrapper__image {
-  width: 90%;
+  width: 85%;
   margin: 0 auto;
 }
 
@@ -12633,10 +12633,6 @@ section {
   border: none;
   transition: transform .5s cubic-bezier(.155, 1.105, .295, 1.12), box-shadow .5s;
   box-shadow: 0 6px 10px #00000014, 0 0 6px #0000000d;
-}
-
-#projects .project-wrapper__image .thumbnail img.img-fluid {
-  transform: scale(.9);
 }
 
 @media (width <= 37.5em) {
