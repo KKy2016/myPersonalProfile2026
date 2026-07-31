@@ -1,2 +1,10 @@
 node_modules/
 .parcel-cache/
+dist/
+dist0/
+dist1/
+dist2/
+dist3/
+dist4/
+dist5/
+dist6/
