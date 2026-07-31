@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n,t as r}from"./index-wlWthQTn.js";e();var i=n(),a=()=>(r(),(0,i.jsx)(t,{}));export{a as default};
